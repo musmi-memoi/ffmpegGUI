@@ -1,7 +1,6 @@
 # ffmpegGUI
 ffmpegをGUIで簡単に使えるようにしただけのやつ
-## 使い方  
-[こちら](https://pi.rin-ad.site/2023/11/ffmpeggui/)を御覧ください。
+
 ## インストール
 Windowsの場合Pythonは必要ないかもしれません。(~~テストがめんどくさい~~)  
 そしてReleaseから7zファイルをダウンロード・解凍して中の実行ファイルを実行するだけ。  
